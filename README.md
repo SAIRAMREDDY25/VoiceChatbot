@@ -36,13 +36,19 @@ This project demonstrates a **voice-based conversational chatbot** built using *
 ## **Installation**
 
 1. Clone this repository to your local machine:
-
+   Using OpenAI
     ```bash
     git clone https://github.com/SAIRAMREDDY25/VoiceChatbot.git
     cd VoiceChatbot
     ```
+   Using AWS-Services
+    ```bash
+    git clone https://github.com/SAIRAMREDDY25/VoiceChatbot.git
+    cd VoiceChatbot/UsingAWS-Services
+    ```
+    
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
